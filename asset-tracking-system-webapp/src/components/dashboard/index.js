@@ -1,0 +1,6 @@
+export { default as DashboardSectionsSummary } from "./SectionsSummary.vue"
+export { default as DashboardBasesSummary } from "./BasesSummary.vue"
+export { default as DashboardRecents } from "./Recents.vue"
+export { default as DashboardRanking } from "./Ranking.vue"
+export { default as DashboardOverviewChart } from "./OverviewChart.vue"
+export { default as DashboardNotification } from "./Notification.vue"
